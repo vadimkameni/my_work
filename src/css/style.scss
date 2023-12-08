@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Inter;
+}
+
+.header{
+    background: rgb(0, 0, 0, 0.2);
+    .header-wrapper{
+        width: 1440px;
+        height: 171px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        ul{
+            margin: auto 0;
+            li{
+                list-style-type: none;
+                display: inline;
+                width: 305px;
+                margin-right: 79px;
+                a{
+                    text-decoration: none;
+                    color: #000;
+                    font-size: 40px;
+                }
+            }
+        }
+    }
+}
