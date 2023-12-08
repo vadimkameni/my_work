@@ -37,7 +37,7 @@
 }
 
 .main {
-  width: 1440px;
+  width: 75%;
   margin: 0 auto 350px;
 }
 .main .block-info {
@@ -47,6 +47,7 @@
   font-size: 40px;
 }
 .main .block-info img {
+  width: 100%;
   margin-bottom: 71px;
 }
 .main h2.title__Of__Block {
