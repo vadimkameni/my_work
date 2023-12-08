@@ -49,6 +49,36 @@
 .main .block-info img {
   margin-bottom: 71px;
 }
+.main h2.title__Of__Block {
+  font-size: 36px;
+  font-weight: 400;
+  padding: 40px 0;
+}
+.main .recommendations-blocks {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.main .recommendations-blocks .recommend-block p {
+  width: 152px;
+  font-size: 24px;
+}
+.main h1.sect-name {
+  font-size: 64px;
+  font-weight: 400;
+  margin: 33px 0;
+}
+.main .product-blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.main .product-blocks .product-block p {
+  width: 348px;
+  font-size: 32px;
+  margin-top: 67px;
+}
 
 .footer {
   height: 171px;
