@@ -234,4 +234,36 @@
   .header .header-wrapper ul li a {
     font-size: 16px;
   }
+  .main {
+    margin: 0 auto 100px;
+  }
+  .main .block-info p {
+    font-size: 16px;
+  }
+  .main .block-info img {
+    margin-bottom: 10px;
+  }
+  .main h2.title__Of__Block {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+  .main .recommendations-blocks .recommend-block p {
+    width: 47px;
+    font-size: 10px;
+  }
+  .main .recommendations-blocks .recommend-block img {
+    width: 48px;
+    height: 47px;
+  }
+  .main h1.sect-name {
+    font-size: 12px;
+  }
+  .main .product-blocks .product-block p {
+    width: 132px;
+    font-size: 12px;
+  }
+  .main .product-blocks .product-block img {
+    width: 103px;
+    height: 56px;
+  }
 }/*# sourceMappingURL=style.css.map */
